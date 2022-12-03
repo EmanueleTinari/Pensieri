@@ -6,6 +6,6 @@
 - ## A questo punto, verso circa la metà della pagina, troverai il relativo video della trasmissione che si può visualizzare sia nella stessa pagina del sito di *Radio Maria Italia*, sia sul loro Canale YouTube. ##
 - ## Per aprire il relativo video su Youtube clicca sulla scritta che compare con scritto in bianco `Guarda su YouTube` e il video ti si aprirà in una nuova scheda/finestra sul sito stesso di YouTube. ##
 ## Una volta finiti questi passi puoi :
-- ## continuare col [Punto 02](https://github.com/EmanueleTinari/Pensieri/blob/main/Istruzioni/02_)
+- ## continuare col [Punto 02](https://github.com/EmanueleTinari/Pensieri/blob/main/Istruzioni/02_UsaMicrosoftNotepad.md)
 - ## tornare alle [Istruzioni per iniziare](https://github.com/EmanueleTinari/Pensieri/blob/main/Istruzioni%20per%20iniziare.md)
 - ## tornare all'elenco iniziale delle cartelle e dei file del progetto [QUI](https://github.com/EmanueleTinari/Pensieri)
