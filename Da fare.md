@@ -1,5 +1,5 @@
 
-File di Google Sheets **[Pensieri](https://docs.google.com/spreadsheets/d/18VII4OIte7B5_PQrYK9lYfO061YqU9I2PD_zum2Z37E/edit?usp=sharing)** contenente la lista delle **trasmissioni sulla Lettura cristiana della cronaca e della storia** di *don Livio Fanzaga*, dai microfoni di *Radio Maria Italia*.<br/>
+File di **[Google Sheets Pensieri](https://docs.google.com/spreadsheets/d/18VII4OIte7B5_PQrYK9lYfO061YqU9I2PD_zum2Z37E/edit?usp=sharing)** contenente la lista delle **trasmissioni sulla Lettura cristiana della cronaca e della storia** di *don Livio Fanzaga*, dai microfoni di *Radio Maria Italia*.<br/>
 
 Colori delle celle:
 
@@ -17,5 +17,18 @@ Non lo puoi, pertanto, modificare in alcun modo.
 
 Puoi utilizzare per ogni colonna il filtro e in tal modo scorrere velocemente le trasmissioni ancora da farsi e quelle già fatte.<br/>
 Basta premere la freccetta verde indicante il basso che si trova su ogni intestazione di colonna (Giorno, Data, Titolo della trasmissione...)<br/>
-e scegliere <br/>`Filtra per colore`,<br/> poi scegli <br/>`Colore riempimento`<br/> e quindi scegliere <br/>`verde`<br/> se, ad esempio, si vogliono visualizzare le trasmissioni già trascritte,<br/>
-oppure scegliere <br/>`bianco`<br/> se si vogliono visualizzare le trasmissioni ancora da trascrivere.
+e scegliere
+
+`Filtra per colore`,
+
+poi scegli
+
+`Colore riempimento`
+
+e quindi scegliere
+
+`verde` se, ad esempio, si vogliono visualizzare le trasmissioni già trascritte,
+
+oppure scegliere
+
+`bianco` se si vogliono visualizzare le trasmissioni ancora da trascrivere.
