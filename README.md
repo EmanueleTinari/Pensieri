@@ -4,6 +4,7 @@ Per intenderci, trascrivere solamente i pensieri iniziali catechetici, tralascia
 - la politica italiana (seconda parte della trasmissione),<br/>
 - la politica estera (terza parte della trasmissione)<br/>
 - e le lettere degli ascoltatori (la quarta parte della trasmissione, cosiddetta "*dal blog di Padre Livio*").<br/>
+
 Ascoltando attentamente ore ed ore di file audio/video nel corso di quest'anno, sono naturalmente capitati giorni in cui gli iniziali 20-25 minuti di pensieri venissero dilatati ed ampliati ad oltre 30 o anche 40.<br/>
 Dipende dal giorno, da ciò che viene detto, dall'occasione ecc...<br/>
 Se uno di voi lettori/ascoltatori desidera darmi una mano, può premere sul link sottostante<br/>
