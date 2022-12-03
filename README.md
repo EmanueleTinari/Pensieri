@@ -21,7 +21,8 @@ per ogni persona che vorrà darmi Nome/Cognome email, età e paese/città, verr�
 2. Buona padronanza con le funzioni base del PC (copia/incolla, uso della tastiera e del mouse, navigazione in rete, uso del browser...)<br/>
 
 Se uno di voi lettori/ascoltatori desidera darmi una mano, può premere sul link sottostante.<br/>
-Pronto? Bene cominciamo con le [Istruzioni per iniziare](https://github.com/EmanueleTinari/Pensieri/blob/main/Istruzioni%20per%20iniziare.md).<br/>
+Pronto? Bene!<br/>
+Cominciamo con le **[Istruzioni per iniziare](https://github.com/EmanueleTinari/Pensieri/blob/main/Istruzioni%20per%20iniziare.md)**.<br/>
 
 Grazie.<br/>
 Emanuele Tinari
