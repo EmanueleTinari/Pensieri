@@ -32,3 +32,25 @@ e quindi scegliere
 oppure scegliere
 
 `bianco` se si vogliono visualizzare le trasmissioni ancora da trascrivere.
+
+Una volta scelta la trasmissione da trascrivere, dovrai innanzitutto selezionare, cliccandoci sopra, la cella contenente la data della stessa,
+poi andare nel menù
+
+`Inserisci`
+
+e quindi scegliere
+
+`Commento`
+
+e dirmi/ci che tu hai iniziato ad occuparti della trasmissione di quel giorno.<br/>
+A quel punto io provvederò a cambiare colore alla riga, facendola passare da
+
+$\textcolor{White}{\text{bianca (libera)}}$
+
+a
+
+$\textcolor{Yellow}{\text{gialla (occupata)}}$. 
+
+Quindi, una volta completata la trascrizione della trasmissione, ed inserito il file di testo \*.TXT nella cartella condivisa su Google Drive,<br/>
+potrai indicarmi il tuo NOME, COGNOME, MAIL, ETA', PAESE e PROVINCIA (o solo alcuni di essi, o anche nessuno) per poter essere inserito
+nell'elenco finale di collaboratori al progetto, nello stesso file Sheet e nei ringraziamenti finali al termine del testo.
