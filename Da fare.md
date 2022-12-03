@@ -55,3 +55,8 @@ $\textcolor{Yellow}{\text{gialla (occupata)}}$.
 Quindi, una volta completata la trascrizione della trasmissione, ed inserito il file di testo \*.TXT nella cartella condivisa su Google Drive,<br/>
 potrai indicarmi il tuo NOME, COGNOME, MAIL, ETA', PAESE e PROVINCIA (o solo alcuni di essi, o anche nessuno) per poter essere inserito
 nell'elenco finale di collaboratori al progetto, nello stesso file Sheet e nei ringraziamenti finali al termine del testo.
+<br/>
+<br/>
+<br/>
+<br/>
+Torna all'elenco iniziale delle cartelle e dei file del progetto [QUI](https://github.com/EmanueleTinari/Pensieri)
