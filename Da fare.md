@@ -43,6 +43,7 @@ e quindi scegliere
 `Commento`
 
 e dirmi/ci che tu hai iniziato ad occuparti della trasmissione di quel giorno.<br/>
+
 A quel punto io provvederò a cambiare colore alla riga, facendola passare da
 
 $\textcolor{White}{\text{bianca (libera)}}$
