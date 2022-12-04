@@ -4,7 +4,8 @@
 - ## Per fare ciò, portati innanzitutto sul menù degli strumenti di Notepad e questa volta premi su `Modifica`, scegli quindi la voce `Sostituisci` dal menù a discesa, per comodità puoi anche premere contemporaneamente sulla tastiera del PC i tasti Control + H (CTRL + H), senza andare col mouse sul menù strumenti. ##
   ## Questo perché la trascrizione di YouTube spesso e volentieri, anzi sempre direi, non usa le maiuscole, manco dove almeno andrebbero obbligatoriamente messe. Poco male, ci pensa Notepad! ##
 - ## Ho organizzato qui sotto una tabella coi termini da fare Trova e Sostituisci che io sono più comodo far fare a Notepad. ##
-- ## Rammento inoltre che le `Altre opzioni` del programma Notepad *deve* avere la spunta su `Maiuscole/minuscole` 
+- ## Nella finestrella del Sostituisci, premi su `Altre opzioni`: ci *deve* essere la spunta su `Maiuscole/minuscole`, se ciò non fosse, spunta l'opzione. ## 
+  ##
 
 | $\textcolor{Yellow}{\text{Trova}}$      | $\textcolor{White}{\text{Sostituisci}}$   |
 | --------------------------------------- | ----------------------------------------- |
@@ -18,6 +19,7 @@
 | $\textcolor{Red}{\text{padre}}$         | $\textcolor{Green}{\text{Padre}}$         |
 | $\textcolor{Red}{\text{spirito santo}}$ | $\textcolor{Green}{\text{Spirito Santo}}$ |
 
+##
 ## salva il file *nomefile.txt*: dal menù degli strumenti di Notepad premi su `File`, scegli la *quarta* voce dall'alto: `Salva`. Per comodità per salvare puoi anche premere contemporaneamente sulla tastiera del PC i tasti Control + S (CTRL + S). Questa volta non ti si aprirà nessuna finestra poichè il nome del file già lo avevi scelto precedentemente, ma il salvataggio andrà a sovrascrivere il file di testo precedente. ##
 
 
