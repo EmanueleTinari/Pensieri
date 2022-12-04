@@ -24,6 +24,6 @@
 
 
 ## Una volta finiti questi passi puoi :
-- ## continuare col [Punto 07](https://github.com/EmanueleTinari/Pensieri/blob/main/Istruzioni/07_otranscribe)
+- ## continuare col [Punto 07](https://github.com/EmanueleTinari/Pensieri/blob/main/Istruzioni/07_otranscribe.md)
 - ## tornare alle [Istruzioni per iniziare](https://github.com/EmanueleTinari/Pensieri/blob/main/Istruzioni%20per%20iniziare.md)
 - ## tornare all'elenco iniziale delle cartelle e dei file del progetto [QUI](https://github.com/EmanueleTinari/Pensieri)
