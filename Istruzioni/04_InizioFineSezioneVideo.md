@@ -11,6 +11,6 @@
 - ## Torniamo ora su YouTube e andiamo sulla finestra della trascrizione automatica del video (siamo quindi intorno al minuto 20), e togliamo i Timestamp premendo i tre puntini verticali a destra di `Trascrizione` e scegliamo dal menù che si apre `Attiva/Disattiva Timestamp`. Vedrai che i tempi del video scompariranno o ricompariranno a seconda di come si clicca. ##
 
 ## Una volta finiti questi passi puoi : ##
-- ## continuare col [Punto 05](https://github.com/EmanueleTinari/Pensieri/blob/main/Istruzioni/05_) ##
+- ## continuare col [Punto 05](https://github.com/EmanueleTinari/Pensieri/blob/main/Istruzioni/05_EstrazioneSalvataggioTrascrizione.md) ##
 - ## tornare alle [Istruzioni per iniziare](https://github.com/EmanueleTinari/Pensieri/blob/main/Istruzioni%20per%20iniziare.md) ##
 - ## tornare all'elenco iniziale delle cartelle e dei file del progetto [QUI](https://github.com/EmanueleTinari/Pensieri) ##
