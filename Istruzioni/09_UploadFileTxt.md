@@ -7,7 +7,7 @@
   - ## messi dove possibile correttamente i plurali ed i singolari al loro posto ##
   - ## sistemati i maschili ed i femminili ##
   - ## messe le lettere maiuscole dove conviene ##
-  - ## lasciato i tuoi dati in fondo al file di testo *nomefile.txt*, dopo la trascrizione (*se vorrai essere menzionato nella pagina dei ringraziamenti, NON obbligatorio quest'ultimo punto*) ##
+  - ## lasciati i tuoi dati in fondo al file di testo *nomefile.txt*, dopo la trascrizione (*se vorrai essere menzionato nella pagina dei ringraziamenti, NON obbligatorio quest'ultimo punto*), oppure in mail direttamente a [Emanuele Tinari](mailto:82208785+EmanueleTinari@users.noreply.github.com?subject=Dati%20personali%20[Inserisci%20qui%20il%20NomeDelFile.txt]&body=Ciao,%20ho%20appena%20completato%20il%20file%20[Inserisci%20qui%20il%20NomeDelFile.txt],%0D%0Ati%20invio%20anche%20i%20miei%20dati:%0D%0ANome:%20%20[Inserisci%20qui%20il%20tuo%20nome]%0D%0ACognome:%20%20[Inserisci%20qui%20il%20tuo%20cognome]%0D%0AMail:%20%20[Inserisci%20qui%20la%20tua%20mail]%0D%0AEtà:%20%20[Inserisci%20qui%20la%20tua%20età]%0D%0APaese:%20%20[Inserisci%20qui%20il%20tuo%20paese]%0D%0AProvincia:%20%20[Inserisci%20qui%20la%20tua%20provincia]%0D%0Aper%20essere%20inserito%20nella%20sezione%20Ringraziamenti%20del%20libro%20Pensieri%20Spirituali.%0D%0AGrazie.) ##
   ## avrai tutta la trascrizione dello spezzone video nel file *nomefile.txt* in Notepad. <br/> Ricordati di salvarlo dopo l'ultimo Incolla! ##
 
 - ## A questo punto portati nella **[Cartella condivisa su Google Drive](https://drive.google.com/drive/folders/1H1AoOqbcfqazJ8Oajy1IqqyZ6wrGKynm?usp=sharing)** . ##
