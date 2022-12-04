@@ -1,9 +1,5 @@
 # $$\textcolor{Lightgreen}{\text{PUNTO 08: otranscribe.com. Parte 2}}$$
 
-- ## Nella parte destra del video e della finestra del sito c'è un largo spazio di input testo. ##
-- ## Devi a questo punto copiare tutta la trascrizione di YouTube presente nel file *nomefile.txt*: seleziona l'inizio della quarta riga col mouse (dove comincia la trascrizione) e trascina lo stesso mouse tenendo premuto il tasto destro verso il basso, fino a che tutta la trascrizione non risulta evidenziata e selezionata. ##
-- ## Premi ora contemporaneamente sulla tastiera del PC i tasti Control + X (CTRL + X), hai tagliato tutta la trascrizione, e la finestra di Notepad si è svuotata e sono rimaste solo le prime tre righe. ##
-- ## Torna su otranscribe.com, fai click col mouse all'interno dello spazio di input testo e incolla la trascrizione, premendo contemporaneamente sulla tastiera del PC i tasti Control + V (CTRL + V). ##
 - ## Ora comincia il bello! ##
 - ## Devi portarti con la barra del video al minuto e secondo del punto di inizio dello spezzone che hai scelto (il tempo è indicato nel file *nomefile.txt*), per aiutarti puoi anche utilizzare i tasti con le frecce presenti in alto al video, servono per spostarsi avanti e indietro di 10 secondi alla volta. ##
 - ## Una volta trovato il punto esatto del video (poi capirai che andrà bene anche 1 o 2 secondi prima), vai all'inizio della trascrizione nella finestra laterale, posiziona il cursore col mouse proprio prima della prima lettera della trascrizione e premi il tasto `Invio` sulla tastiera del PC. ##
