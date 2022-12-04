@@ -1,4 +1,4 @@
-# $$\textcolor{Lightgreen}{\text{PUNTO 07: otranscribe.com.}}$$
+# $$\textcolor{Lightgreen}{\text{PUNTO 07: otranscribe.com. Parte 1}}$$
 
 - ## Ora voglio parlarti del sito [otranscribe.com](https://otranscribe.com). ##
 - ## Come dice la scritta sulla pagina che ti si apre è: <br/> *Un'applicazione web GRATUITA per aiutarti nella trascrizione di interviste registrate*. ##
