@@ -1,6 +1,5 @@
 # $$\textcolor{Lightgreen}{\text{PUNTO 08: otranscribe.com. Parte 2}}$$
 
-- ## Ora comincia il bello! ##
 - ## Devi portarti con la barra del video al minuto e secondo del punto di inizio dello spezzone che hai scelto (il tempo è indicato nel file *nomefile.txt*), per aiutarti puoi anche utilizzare i tasti con le frecce presenti in alto al video, servono per spostarsi avanti e indietro di 10 secondi alla volta. ##
 - ## Una volta trovato il punto esatto del video (poi capirai che andrà bene anche 1 o 2 secondi prima), vai all'inizio della trascrizione nella finestra laterale, posiziona il cursore col mouse proprio prima della prima lettera della trascrizione e premi il tasto `Invio` sulla tastiera del PC. ##
 - ## La trascrizione si è spostata in basso di una riga. <br/> Riposiziona il cursore all'inizio della prima riga, ora vuota, e premi l'icona a sinistra con l'orologio, la terza a partire dall'alto, puoi anche premere contemporaneamente sul PC i tasti Control + J (CTRL + J). ##
