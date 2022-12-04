@@ -1,8 +1,8 @@
 # $$\textcolor{Lightgreen}{\text{PUNTO 06: Sistemazioni iniziali della trascrizione.}}$$
 
-- ## In Notepad hai quindi ora tutta la trascrizione della sezione del video. Se hai fatto caso al testo stesso, ci sono moltissime cose da sistemare: ##
+- ## In Notepad hai quindi ora tutta la trascrizione della sezione del video. <br/> Se hai fatto caso al testo stesso, ci sono moltissime cose da sistemare: ##
 - ## Per fare ciò, portati innanzitutto sul menù degli strumenti di Notepad e questa volta premi su `Modifica`, scegli quindi la voce `Sostituisci` dal menù a discesa, per comodità puoi anche premere contemporaneamente sulla tastiera del PC i tasti Control + H (CTRL + H), senza andare col mouse sul menù strumenti. ##
-  ## Questo perché la trascrizione di YouTube spesso e volentieri, anzi sempre direi, non usa le maiuscole, manco dove almeno andrebbero obbligatoriamente messe. Poco male, ci pensa Notepad! ##
+  ## Questo perché la trascrizione di YouTube spesso e volentieri, anzi sempre direi, non usa le maiuscole, manco dove almeno andrebbero obbligatoriamente messe. <br/> Poco male, ci pensa Notepad! ##
 - ## Ho organizzato qui sotto una tabella coi termini da fare Trova e Sostituisci che io sono più comodo far fare a Notepad. ##
 - ## Nella finestrella del Sostituisci, premi su `Altre opzioni`: ci *deve* essere la spunta su `Maiuscole/minuscole`, se ciò non fosse, spunta l'opzione. ## 
   ##
@@ -20,7 +20,7 @@
 | $\textcolor{Red}{\text{spirito santo}}$ | $\textcolor{Green}{\text{Spirito Santo}}$ |
 
 ##
-## salva il file *nomefile.txt*: dal menù degli strumenti di Notepad premi su `File`, scegli la *quarta* voce dall'alto: `Salva`. Per comodità per salvare puoi anche premere contemporaneamente sulla tastiera del PC i tasti Control + S (CTRL + S). Questa volta non ti si aprirà nessuna finestra poichè il nome del file già lo avevi scelto precedentemente, ma il salvataggio andrà a sovrascrivere il file di testo precedente. ##
+## salva il file *nomefile.txt*: dal menù degli strumenti di Notepad premi su `File`, scegli la *quarta* voce dall'alto: `Salva`. <br/> Per comodità per salvare puoi anche premere contemporaneamente sulla tastiera del PC i tasti Control + S (CTRL + S). <br/> Questa volta non ti si aprirà nessuna finestra poichè il nome del file già lo avevi scelto precedentemente, ma il salvataggio andrà a sovrascrivere il file di testo precedente. ##
 
 
 ## Una volta finiti questi passi puoi :
