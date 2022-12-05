@@ -1,4 +1,4 @@
-# $$\textcolor{Lightgreen}{\text{PUNTO 06: Sistemazioni iniziali della trascrizione.}}$$
+# $$\textcolor{Lightgreen}{\text{PUNTO 06: Sistemazioni iniziali della trascrizione}}$$
 
 - ## In Notepad hai quindi ora tutta la trascrizione della sezione del video. <br/> Se hai fatto caso al testo stesso, ci sono moltissime cose da sistemare: ##
 - ## Per fare ciò, portati innanzitutto sul menù degli strumenti di Notepad e questa volta premi su `Modifica`, scegli quindi la voce `Sostituisci` dal menù a discesa, per comodità puoi anche premere contemporaneamente sulla tastiera del PC i tasti Control + H (CTRL + H), senza andare col mouse sul menù strumenti. ##
