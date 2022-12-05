@@ -1,4 +1,4 @@
-# $$\textcolor{Lightgreen}{\text{PRIMA DI INIZARE. COS'È QUESTO PROGETTO?}}$$
+# PRIMA DI INIZARE. COS'È QUESTO PROGETTO?
 
 ## Questo è un progetto, totalmente gratuito, che mira a mettere online le trascrizioni di un anno di *Trasmissioni sulla Lettura cristiana della cronaca e della storia* di *don Livio Fanzaga*, dai microfoni di *Radio Maria Italia*. ##
 ## E' mia intenzione non riportare totalmente l'ora, circa, di trasmissione, ma solamente i primi 20-25 minuti. ##
