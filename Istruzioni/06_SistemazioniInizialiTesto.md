@@ -18,6 +18,7 @@
 | $\textcolor{Red}{\text{dio}}$           | $\textcolor{Green}{\text{Dio}}$           |
 | $\textcolor{Red}{\text{padre}}$         | $\textcolor{Green}{\text{Padre}}$         |
 | $\textcolor{Red}{\text{spirito santo}}$ | $\textcolor{Green}{\text{Spirito Santo}}$ |
+| $\textcolor{Red}{\text{comandamenti}}$  | $\textcolor{Green}{\text{Comandamenti}}$  |
 
 ##
 ## salva il file *nomefile.txt*: dal menù degli strumenti di Notepad premi su `File`, scegli la *quarta* voce dall'alto: `Salva`. <br/> Per comodità per salvare puoi anche premere contemporaneamente sulla tastiera del PC i tasti Control + S (CTRL + S). <br/> Questa volta non ti si aprirà nessuna finestra poichè il nome del file già lo avevi scelto precedentemente, ma il salvataggio andrà a sovrascrivere il file di testo precedente. ##
