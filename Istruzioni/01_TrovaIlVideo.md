@@ -1,4 +1,4 @@
-# $$\textcolor{Lightgreen}{\text{PUNTO 01: Trova il video da trascrivere.}}$$
+# $$\textcolor{Lightgreen}{\text{PUNTO 01: Trova il video da trascrivere}}$$
 
 - ## Innanzitutto devi individuare, in base al giorno, una trasmissione libera ancora da trascrivere, partendo da questo file [Google Drive Sheets Pensieri](https://docs.google.com/spreadsheets/d/18VII4OIte7B5_PQrYK9lYfO061YqU9I2PD_zum2Z37E/edit?usp=sharing), come spiegato nelle [istruzioni Da fare](https://github.com/EmanueleTinari/Pensieri/blob/main/Da%20fare.md) a video, poi torna a questa pagina di istruzioni. ##
 - ## Una volta individuata e segnalata la trasmissione da trascrivere (lasciando un commento nella cella del giorno scelto), vai a questa pagina del sito di [*Radio Maria Italia*](https://radiomaria.it/trasmissioni/lettura-cristiana-della-cronaca-e-della-storia/) e scegli dal menù a tendina l'anno (2022) e il mese in cui la trasmissione da te scelta si trova. ##
