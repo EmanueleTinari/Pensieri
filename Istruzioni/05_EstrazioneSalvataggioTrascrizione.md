@@ -1,4 +1,4 @@
-# $$\textcolor{Lightgreen}{\text{PUNTO 05: Estrazione e salvataggio trascrizione.}}$$
+# $$\textcolor{Lightgreen}{\text{PUNTO 05: Estrazione e salvataggio trascrizione}}$$
 
 - ## A questo punto della trascrizione ti troverai alla fine della sezione del *Pensiero Spirituale*. <br/> Col mouse devi selezionare il testo e andare verso l'alto, fino a giungere al minuto e secondo di inizio della sezione, in modo da selezionare, evidenziandola col mouse, tutta la parte della trascrizione che ci interessa. ##
 - ## Una volta selezionata la parte del testo, premi contemporaneamente sulla tastiera del PC i tasti Control + C (CTRL + C) e torna su Notepad, vai su una nuova riga (la quarta, dopo il link e i due tempi segnati), e premi contemporaneamente sulla tastiera del PC i tasti Control + V (CTRL + V): vedrai a questo punto tutta la parte della trascrizione estratta incollarsi nel programma Notepad. <br/> Questo passaggio serve per "purificare" il testo da eventuali formattazioni della pagina internet di YouTube. ##
