@@ -1,4 +1,4 @@
-# $$\textcolor{Lightgreen}{\text{PUNTO 09: Caricamento del file di testo.}}$$
+# $$\textcolor{Lightgreen}{\text{PUNTO 09: Caricamento del file di testo}}$$
 
 - ## Ora che hai: ##
   - ## controllato tutta la trascrizione ##
