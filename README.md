@@ -13,7 +13,8 @@
 ## `Per fare ciò sono necessari volontari, ecco perchè TI sto cercando!` ##
 ## Non è necessario saper programmare in chissà quale maniera, ma sicuramente avere un buon spirito d'iniziativa e, naturalmente, il desiderio di partecipare ad un progetto così. ##
 
-## $\textcolor{Red}{\text{QUALITÀ NECESSARIE:}}$
+ $\textcolor{Red}{\text{QUALITÀ NECESSARIE:}}$
+ 
   - ## Disponibilità a trascrivere almeno una puntata (non è una GARA! Chi volesse partecipare trascrivendo più di una puntata, tanto meglio: nei Ringraziamenti finali, per ogni persona che vorrà darmi Nome/Cognome email, età e paese/città, verrà anche indicato quale o quali puntata/e ha trascritto); ##
   - ## Buona padronanza con le funzioni base del PC (copia/incolla, uso della tastiera e del mouse, navigazione in rete, uso del browser...) ##
 ## Se uno di voi lettori/ascoltatori desidera darmi una mano, può premere sul link sottostante. ##
